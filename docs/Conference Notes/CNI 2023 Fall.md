@@ -366,7 +366,6 @@ Location: Salons I & II
 	- Resources to explore further
 - Module: https://bit.ly/AI-ELMS 
 - If interested in using, email bshaw1@umd.edu
-
 ### Leo Lo (UNM)
 - ==TO DO: Contact Leo to get framework==
 - Impetus: How to get people to use and engage with a new tool like genAI? 
@@ -415,7 +414,7 @@ Location: Salons I & II
 - Results 
 	- ==TO DO: Look for report in Jan 2024==
 	- 27 RDM and sharing activities identified 
-	- ==TO DO: Check out the frameworks and visualizations on the project page. e.g.: https://public.tableau.com/app/profile/mollie.webb/viz/rads_data_support_activities_service_centers/rads_ic 
+	- ==TO DO: Check out the frameworks and visualizations on the project page. e.g.: https://public.tableau.com/app/profile/mollie.webb/viz/rads_data_support_activities_service_centers/rads_ic ==
 	- ![[Pasted image 20231212093833.png]]
 	- ![[Pasted image 20231212093848.png]]
  - ![[Pasted image 20231212094021.png]]
