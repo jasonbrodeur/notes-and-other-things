@@ -581,3 +581,4 @@ Location: Salons F & G
 ### Closing Plenary: Open Access, Open Scholarship, and Machine Learning: A Panel and Community Conversation
 [Description](https://cnifall23mtg.sched.com/event/1VQwx/closing-plenary-open-access-open-scholarship-and-machine-learning-a-panel-and-community-conversation?iframe=no)
 Location: Salons I & II
+
