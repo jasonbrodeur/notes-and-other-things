@@ -196,7 +196,7 @@ Emily Griffith and Mara Blake
 - Forthcoming 
 	- Special issue of journal **Stat**
 	- Upcoming grant project - supporting presentations and conferences to share the project work + publication that outlines how to leverage graduate student employees in a consulting program (i.e., manual with job postings).
-		- > TO DO: Flag for the DASH program.  
+		- ==TO DO: Flag for the DASH program.==  
 - Q&A
 	- Which disciplines are being supported through this program? 
 		- Computer science, engineering, natural resources, statistics, economics; very interdisciplinary in terms of users; Also hire inline with interdisciplinary needs.
@@ -285,28 +285,28 @@ Location: Salons D&E
 	- Cataloging outreach and engagement. Mine data about service partnerships. 
 ### Notes to self / Takeaways  
 - ==Q: Interested in the questions/pressures that you've had from upper university administrators about return on investment==
-- ==How to integrate Research Offices folks more into the DRCP? How to make them active participants? 
+- ==How to integrate Research Offices folks more into the DRCP? How to make them active participants? ==
 - ==**RSD team: Role in supporting data science / AI?**==
 
 ## Lightning Round
 [Description](https://cnifall23mtg.sched.com/event/1VHVt/32-partnerships-in-research-and-data-services-high-performance-computing-collocation-and-facilitation?iframe=no)  
 Location: Salons I & II
 ### Presentation 1
-[Cyberinfrastructure to Support the Scalable Exchange of Sensitive and Proprietary Usage and Impact Metrics Across Public and Private Stakeholders](https://www.cni.org/topics/assessment/cyberinfrastructure-to-support-the-scalable-exchange-of-sensitive-and-proprietary-usage-and-impact-metrics-across-public-and-private-stakeholders), Christina Drummond, University of North Texas
+- [Cyberinfrastructure to Support the Scalable Exchange of Sensitive and Proprietary Usage and Impact Metrics Across Public and Private Stakeholders](https://www.cni.org/topics/assessment/cyberinfrastructure-to-support-the-scalable-exchange-of-sensitive-and-proprietary-usage-and-impact-metrics-across-public-and-private-stakeholders), Christina Drummond, University of North Texas
 - [OA Book User Data Trust Effort](https://www.oabookusage.org/) 
 - [International data spaces](https://internationaldataspaces.org/)
 ### Presentation 2
-[LEADING Next Steps: Evaluating the Sustainability and Impact of Post-graduate Professional Development and Mentorship Programs](https://www.cni.org/topics/economic-models/leading-next-steps-evaluating-the-sustainability-and-impact-of-post-graduate-professional-development-and-mentorship-programs), Erik Mitchell, University of California, San Diego
+- [LEADING Next Steps: Evaluating the Sustainability and Impact of Post-graduate Professional Development and Mentorship Programs](https://www.cni.org/topics/economic-models/leading-next-steps-evaluating-the-sustainability-and-impact-of-post-graduate-professional-development-and-mentorship-programs), Erik Mitchell, University of California, San Diego
 - A lot of important benefits, but sustainability as a key challenge for these kinds of programs
 	- How might libraries collaborate to innovate professional education that impacts recruitment, growth, and retention? 
 ### Presentation 3
-[Ecosystem for Next Generation Infrastructure (ENGIN)](https://www.cni.org/topics/ci/ecosystem-for-next-generation-infrastructure), Sayeed Choudhury, Carnegie Mellon University
+- [Ecosystem for Next Generation Infrastructure (ENGIN)](https://www.cni.org/topics/ci/ecosystem-for-next-generation-infrastructure), Sayeed Choudhury, Carnegie Mellon University
 - Infrastructure  = technology + humans (human-centred engineering)
 - Open source + open science as drivers of next-gen infrastructure 
 - [CMY Cloud Lab](https://cloudlab.cmu.edu/) - anyone with an internet connection and computer can access HPC resources
 - Provocative question: What does genAI do to CC-BY?
 ### Presentation 4
-[The Research Data Support Landscape: Findings from a National Inventory of University Services](https://www.cni.org/topics/repositories/the-research-data-support-landscape-findings-from-a-national-inventory-of-university-services), Dylan Ruediger, Ithaka S+R
+- [The Research Data Support Landscape: Findings from a National Inventory of University Services](https://www.cni.org/topics/repositories/the-research-data-support-landscape-findings-from-a-national-inventory-of-university-services), Dylan Ruediger, Ithaka S+R
 - > NOTE: Could look at this survey as a potential service mapping basis? 
 - ![[Pasted image 20231211174150.png]]
 - ~70% of services in R1 and R2 are consultation-based services (as opposed to training-based services)
@@ -316,9 +316,9 @@ Location: Salons I & II
 - Findings published in early 2024. 
 	- Will include detailed breakdown with Canadian context, and mapping between disciplines and providers. 
 ### Presentation 5
-[The Stacks Platform: A System for Onsite Access to Rights Restricted Digital Content at the Library of Congress](https://www.cni.org/topics/special-collections/the-stacks-platform-a-system-for-onsite-access-to-rights-restricted-digital-content-at-the-library-of-congress), Trevor Owens, Library of Congress
+- [The Stacks Platform: A System for Onsite Access to Rights Restricted Digital Content at the Library of Congress](https://www.cni.org/topics/special-collections/the-stacks-platform-a-system-for-onsite-access-to-rights-restricted-digital-content-at-the-library-of-congress), Trevor Owens, Library of Congress
 ### Presentation 6
-[Unexpected Opportunities Illuminated by Yale’s LUX Project](https://www.cni.org/topics/special-collections/unexpected-opportunities-illuminated-by-yales-lux-project), Robert Sanderson, Yale University
+- [Unexpected Opportunities Illuminated by Yale’s LUX Project](https://www.cni.org/topics/special-collections/unexpected-opportunities-illuminated-by-yales-lux-project), Robert Sanderson, Yale University
 - LUX: Unified digital access to collections of libraries, museums and archives (across all of Yale)
 - Built on Linked Open Data 
 - Other uses
@@ -327,7 +327,7 @@ Location: Salons I & II
 	- Use the data to build non-hallucinating AI
 - Cleaning code -- will come to GitHub soon. 
 ### Presentation 7
-[LIBER - Association of European Research Libraries](https://www.cni.org/topics/digital-libraries/liber), Julien Roche, LIBER
+- [LIBER - Association of European Research Libraries](https://www.cni.org/topics/digital-libraries/liber), Julien Roche, LIBER
 - Wide range of activities, from networking to learning and training, to open resources 
 - Leadership programs 
 	- Emerging Leaders | Library Directors
@@ -339,8 +339,8 @@ Location: Salons I & II
 [Description](https://cnifall23mtg.sched.com/event/1VHip/41-navigating-the-artificial-intelligence-driven-academic-frontier-tools-and-initiatives?iframe=no)
 ### Joelen Pastva (CMU)
 - Motivation: Increase pathways for users to discover library resources
-- Researchers don't regularly start looking at the Library catalogue/website -- how to help them find what they need? 
-- [keenious](https://keenious.com/) - recommender tool (powered by AI) to assist in discovery of relevant scholarly articles by analyzing text inputs 
+- Researchers don't regularly start looking at the Library catalogue/website -- how to help them find what they need?
+- [keenious](https://keenious.com/) - recommender tool (powered by AI) to assist in discovery of relevant scholarly articles by analyzing text inputs
 - Questions / concerns
 	- Data sources -- uses open sources: openalex, unsub, unpaywall 
 	- Algorithmic transparency 
@@ -350,7 +350,7 @@ Location: Salons I & II
 	- Product roadmap 
 	- Keenious passed all concerns, but requires regular revisitation to ensure the values/objectives/business models do not drift toward misalignment
 - ![[Pasted image 20231212090033.png]]
-- outcomes 
+- Outcomes 
 	- User retention increased, more clicks through to the link resolver 
 ### Ben Shaw (U of Maryland)
 - Impetus: Uncertainty around understanding of generative AI; application by learners and instructors
