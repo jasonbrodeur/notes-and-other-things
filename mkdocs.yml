@@ -2,9 +2,9 @@ site_name: Jay's notes and other things
 
 theme:
     name: 'material'
-    palette:
     features: 
       - toc.follow
+    palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
