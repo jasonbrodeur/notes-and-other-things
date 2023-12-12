@@ -108,15 +108,13 @@ Location: Salons I & II
 	- Challenge 2: Reconciling the urge to "throw as much compute as it as we can for the time being" vs. investing in developing more parsimonious models. 
 		- Not a lot of research on cost-benefits
 ## 1.2 To Increase or Decrease Capacity: The What, How, and Why of 21st Century Library Skill Development
-[Description](https://cnifall23mtg.sched.com/event/1VHUb/12-to-increase-or-decrease-capacity-the-what-how-and-why-of-21st-century-library-skill-development?iframe=no)
+[Description](https://cnifall23mtg.sched.com/event/1VHUb/12-to-increase-or-decrease-capacity-the-what-how-and-why-of-21st-century-library-skill-development?iframe=no)  
 Location: Salons D&E
 ### Tony Zanders (Skilltype)
 - The change that we see around genAI is not new -- the 21st century has been defined by constant change
 		- e.g. Library websites (2004) - Outsourced Collections (2012) - Social Justice (2016) - COVID19 (2020) - genAI (2023)
 		- It's not enough to think about how we deal with genAI, but to think about how we train ourselves to manage a changing technology environm
-		- 
-	 
- - [Skilltype](https://www.skilltype.com/): been working on this since late 2010s
+- [Skilltype](https://www.skilltype.com/): been working on this since late 2010s
 - Libraries find themselves revisiting the way they quantify and communicate their work.
 - Step 1: Needs assessment: What are the priority skills and competencies for our library? 
 	- Recommendations: Don't leave staff to play a guessing game -- communicate clearly the expectations for themselves 
@@ -132,7 +130,7 @@ Location: Salons D&E
 - Intersection of talent + technology = digital dexterity 
 	- See the [Council of Australian University Librarians (CAUL) Digital Dexterity Framework](https://www.caul.edu.au/digital-dexterity-framework)
 - Currently accelerating our work to meet the growing and changing needs related to digital research and open scholarship. 
-- @CarnegieMellon: Investment in people is critical 
+- At CMU: Investment in people is critical 
 	- Give each employee $2,500 PD fund to support conference/webinar/membership 
 	- This year, set aside a separate fund for anyone who is seeking training in AI
 	- Professional development coordinator -- shares training opportunities weekly 
@@ -141,11 +139,10 @@ Location: Salons D&E
 ### Karim Boughida (Stony Brook U)
 - Common Theme: Disconnect between library administrators and staff
 	- To skills according to staff: Data, digital scholarship, etc. 
-	- #1 skill according to admins: "LibGuides"
+	- Top skill according to admins: "LibGuides"
 - Library jobs amongst the top-20 jobs replaceable by genAI 
 - What employers want: Skills, not credentials. Employers are doing skills-based hiring
 - **PD always a priority -- never cut it from the budget** 
-
 ### Q&A
 - Developing skills in current staff vs. addressing gaps/limitation in current MLIS education
 	- It's important to acknowledge that the principles of information management and arrangement are always going to be relevant, but very few indiividuals in the future will need to know how to catalogue a book, specifically. 
@@ -155,15 +152,14 @@ Location: Salons D&E
 - Libraries are no longer the primary provider of scholarly content -- gives us an opportunity to provide other important services 
 	- Change from collections-based organization to a service-based organization. 
 - Dept of Labour: Estimates 7% increase in information professionals by 2030. 
-
 ### Thoughts
 - A lot to think about in terms of our current state and trajectory with skills development within the Library.
 - We need a fuller strategy for staff development 
-
 ## 2.1 Models for Sustainable and Inclusive Data Science Consulting and Collaboration in Higher Education
-[Description](https://cnifall23mtg.sched.com/event/1VHVS/21-models-for-sustainable-and-inclusive-data-science-consulting-and-collaboration-in-higher-education?iframe=no)
-Location: Salons I & II
-Emily Griffith and Mara Blake
+[Description](https://cnifall23mtg.sched.com/event/1VHVS/21-models-for-sustainable-and-inclusive-data-science-consulting-and-collaboration-in-higher-education?iframe=no)  
+Location: Salons I & II  
+Emily Griffith and Mara Blake  
+
 - At NC State 
 	- Data science-related programs 
 		- Multiple coordinated avenues of support
@@ -210,7 +206,7 @@ Emily Griffith and Mara Blake
 		- It's really not that expensive to hire graduate students 
 		- Focus on educational experience for the students 
 ## 3.2 Partnerships in Research and Data Services: High Performance Computing, Collocation, and Facilitation
-[Description](https://cnifall23mtg.sched.com/event/1VHVt/32-partnerships-in-research-and-data-services-high-performance-computing-collocation-and-facilitation?iframe=no)
+[Description](https://cnifall23mtg.sched.com/event/1VHVt/32-partnerships-in-research-and-data-services-high-performance-computing-collocation-and-facilitation?iframe=no)  
 Location: Salons D&E
 ### Michael Navicky & Lauren Geiger (Mississippi State University)
 - Using the [RCDCM](https://carcc.org/rcdcm/). Potential uses: 
@@ -293,7 +289,7 @@ Location: Salons D&E
 - ==**RSD team: Role in supporting data science / AI?**==
 
 ## Lightning Round
-[Description](https://cnifall23mtg.sched.com/event/1VHVt/32-partnerships-in-research-and-data-services-high-performance-computing-collocation-and-facilitation?iframe=no)
+[Description](https://cnifall23mtg.sched.com/event/1VHVt/32-partnerships-in-research-and-data-services-high-performance-computing-collocation-and-facilitation?iframe=no)  
 Location: Salons I & II
 ### Presentation 1
 [Cyberinfrastructure to Support the Scalable Exchange of Sensitive and Proprietary Usage and Impact Metrics Across Public and Private Stakeholders](https://www.cni.org/topics/assessment/cyberinfrastructure-to-support-the-scalable-exchange-of-sensitive-and-proprietary-usage-and-impact-metrics-across-public-and-private-stakeholders), Christina Drummond, University of North Texas
@@ -321,7 +317,6 @@ Location: Salons I & II
 	- Will include detailed breakdown with Canadian context, and mapping between disciplines and providers. 
 ### Presentation 5
 [The Stacks Platform: A System for Onsite Access to Rights Restricted Digital Content at the Library of Congress](https://www.cni.org/topics/special-collections/the-stacks-platform-a-system-for-onsite-access-to-rights-restricted-digital-content-at-the-library-of-congress), Trevor Owens, Library of Congress
-- 
 ### Presentation 6
 [Unexpected Opportunities Illuminated by Yale’s LUX Project](https://www.cni.org/topics/special-collections/unexpected-opportunities-illuminated-by-yales-lux-project), Robert Sanderson, Yale University
 - LUX: Unified digital access to collections of libraries, museums and archives (across all of Yale)
@@ -340,10 +335,10 @@ Location: Salons I & II
 	- ![[Pasted image 20231211175816.png]]
 
 ## 4.1 Navigating the Artificial Intelligence-Driven Academic Frontier: Tools and Initiatives
-Location: Salons I & II
+Location: Salons I & II  
 [Description](https://cnifall23mtg.sched.com/event/1VHip/41-navigating-the-artificial-intelligence-driven-academic-frontier-tools-and-initiatives?iframe=no)
 ### Joelen Pastva (CMU)
-Motivation: Increase pathways for users to discover library resources
+- Motivation: Increase pathways for users to discover library resources
 - Researchers don't regularly start looking at the Library catalogue/website -- how to help them find what they need? 
 - [keenious](https://keenious.com/) - recommender tool (powered by AI) to assist in discovery of relevant scholarly articles by analyzing text inputs 
 - Questions / concerns
@@ -373,7 +368,7 @@ Motivation: Increase pathways for users to discover library resources
 - If interested in using, email bshaw1@umd.edu
 
 ### Leo Lo (UNM)
-==TO DO: Contact Leo to get framework==
+- ==TO DO: Contact Leo to get framework==
 - Impetus: How to get people to use and engage with a new tool like genAI? 
 - Intervention: 12-week program
 - Goals: 
@@ -398,13 +393,11 @@ Motivation: Increase pathways for users to discover library resources
 	- AI lacked subject matter expertise
 ### Elias Tzoc (Clemson)
 ### Q&A 
-- Keenious: Draws from OpenAlex, but restricts the articles it pulls from (e.g. only English), results in about 50M articles (which is still pretty good). What is trajectory for the product? 
-	- 
-
+- Keenious: Draws from OpenAlex, but restricts the articles it pulls from (e.g. only English), results in about 50M articles (which is still pretty good). What is trajectory for the product?
 ## 5.1 Researcher and Institutional Impact of Data Management and Sharing Policies
-[Description](https://cnifall23mtg.sched.com/event/1VHj7/51-researcher-and-institutional-impact-of-data-management-and-sharing-policies?iframe=no)
-Location: Salons I & II
-==TO DO: RDM Team to review Outcomes of [Realities of Academic Data Sharing (RADS) Initiative](https://www.arl.org/realities-of-academic-data-sharing-rads-initiative/) ==
+[Description](https://cnifall23mtg.sched.com/event/1VHj7/51-researcher-and-institutional-impact-of-data-management-and-sharing-policies?iframe=no)  
+Location: Salons I & II  
+- ==TO DO: RDM Team to review Outcomes of [Realities of Academic Data Sharing (RADS) Initiative](https://www.arl.org/realities-of-academic-data-sharing-rads-initiative/) ==
 - Data sharing requirements have gotten increasingly complex in the US. 
 - Research questions: 
 	- How do institutions support research data management and sharing? 
@@ -457,14 +450,13 @@ Location: Salons I & II
 ### Q&A
 - When researchers say "I did this myself, how much of this was a graduate student?"
 - Grant was an excellent opportunity to have conversation across units 
-
 ## 6.2 A Radical New Approach to Data Citation: Cook the Carrots, Burn the Sticks
-[Description](https://cnifall23mtg.sched.com/event/1VQvA/62-a-radical-new-approach-to-data-citation-cook-the-carrots-burn-the-sticks?iframe=no)
-Location: Salons D & E
-Relevant links: 
-- Make Data Count: https://makedatacount.org/data-citation/
-- Previous presentation: https://zenodo.org/records/10083792
-- DataCite dashboard: http://corpus.stage.datacite.org/dashboard
+[Description](https://cnifall23mtg.sched.com/event/1VQvA/62-a-radical-new-approach-to-data-citation-cook-the-carrots-burn-the-sticks?iframe=no)  
+Location: Salons D & E  
+- Relevant links: 
+	- [Make Data Count](https://makedatacount.org/data-citation/)
+	- [Previous presentation](https://zenodo.org/records/10083792) 
+	- [DataCite dashboard](http://corpus.stage.datacite.org/dashboard)
 #### [Jamie Wittenberg](https://cnifall23mtg.sched.com/speaker/jamie.wittenberg1 "Jamie Wittenberg")
 - We don't know how data can be found. If we're not capturing metadata about data use, we're not counting it. 
 - Questions: 
@@ -513,7 +505,7 @@ Location: Salons D & E
 
 
 ## 8.2 Duke University's Research Support Initiative: Assessment, Recommendations, and Implementation
-[Description](https://cnifall23mtg.sched.com/event/1VQwV/82-duke-universitys-research-support-initiative-assessment-recommendations-and-implementation?iframe=no)
+[Description](https://cnifall23mtg.sched.com/event/1VQwV/82-duke-universitys-research-support-initiative-assessment-recommendations-and-implementation?iframe=no)  
 Location: Salons F & G
 #### [John Board](https://cnifall23mtg.sched.com/speaker/john.board "John Board")
 #### [Tim McGeary](https://cnifall23mtg.sched.com/speaker/tim.mcgeary "Tim McGeary")
@@ -544,7 +536,7 @@ Location: Salons F & G
 	- 3 co-sponsors as leaders
 	- ![[Pasted image 20231212133044.png]]
 	- Participants asked to prioritize interventions -- mapped alongside sponsor strategic priorities
-	- ![[Pasted image 20231212133239.png]]
+	- ![[Pasted image 20231212163426.png]]
 	- ![[Pasted image 20231212133403.png]]
 - Looking to add 15-20 FTEs across units 
 - ![[Pasted image 20231212133416.png]]
