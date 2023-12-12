@@ -2,13 +2,12 @@
 December 13-14, 2023 
 Washington, DC.
 
-Purpose of these notes: For Jay's own notetaking purposes; to allow others to 
-## Monday, 11-Dec, 2023
-### Opening Plenary: Clifford Lynch
+Purpose of these notes: For Jay's own notetaking and knowledge-building purposes; to share information with others, too. 
+## Opening Plenary: Clifford Lynch
 [Description](https://cnifall23mtg.sched.com/event/1VHgP/opening-plenary-clifford-lynch?iframe=no)
 Location: Salons I & II
 
-#### Off the top
+### Off the top
 - ==TO DO: Schedule a time to share CNI videos early in the new year.==
 - A reminder to member institution reps to share information as appropriate within the institution. 
 	- ==TO DO: Share these out more regularly. ==
@@ -28,7 +27,7 @@ Location: Salons I & II
 - Digital Twins
 	- Simulation model paired with a physical model -- use both interactively to inform the other 
 	- [NIST article](https://www.nist.gov/news-events/news/2023/02/how-digital-twins-could-protect-manufacturers-cyberattacks)
-#### AI
+### AI
 - It's a confusing space and incredibly lack of transparency
 - All sorts of chatbots built on LLMs; everyone is using them; very few really understand how they work and exactly what the can/should be used for
 	- Lots of conjecture / discussion of regulation / demoware and fake demoware 
@@ -58,7 +57,7 @@ Location: Salons I & II
 			- [Aurora GPT](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/) - trained on scientific literature, data, code | 1 trillion parameter
 	- What does it mean to be "open" in the AI space? And how do we preserve these systems?
 		- Requires a nuanced set of definitions for "openness"
-#### Scholarly Communications
+### Scholarly Communications
 - CNI executive roundtable for RDM -- report coming out soon
 - Significant increase in desire for services. Due to:
 	- Funding policies, NIH data sharing policies
@@ -78,7 +77,7 @@ Location: Salons I & II
 	- e.g. Google Deep mind (a couple of years ago) predicting protein folds 
 	- Challenge: These are predicted results (and not discovered/synthesized and validated). 
 		- Requires a whole new set of scientific methods and scholarly communications processes to support. 
-#### Broader social/societal speculations
+### Broader social/societal speculations
 - The obvious: recalibrating how we assess truth in era of genAI -- we're here now.
 	- The world is here. We aren't ready for it. An endless arms race between anomalies and tools to identify them. 
 	- Efforts to formalize provenance through a series of digital signatures. 
@@ -95,7 +94,7 @@ Location: Salons I & II
 		- Scholars -- How will scholars think about the use of scholarly works to train machines to synthesize and generate new information? 
 	- Grappling with reanimation: If we can already make systems that can "create in the style of...", what are the implications for reanimated historical/cultural figures, family history? What does it mean when we can reanimate historical figures who can talk to you in a very convincing way about what they did and why? 
 		- What does it mean when we package up our grandparents for future generations to interact with? 
-#### Q & A
+### Q & A
 - Other cybersecurity incidents and throughlines: Toronto Public Library (did not negotiate; still not back up and using index cards) and University of Michigan (entire university)
 	- A: Qs about how robust our systems are and the priorities around what to bring back. Public-facing (communications) vs technical back-end.
 		- Another eg: 23 and me breach. 
@@ -108,10 +107,10 @@ Location: Salons I & II
 			- Inferencing -- e.g. search engines coupling search results to LLMs = significant increased computational cost  
 	- Challenge 2: Reconciling the urge to "throw as much compute as it as we can for the time being" vs. investing in developing more parsimonious models. 
 		- Not a lot of research on cost-benefits
-### 1.2 To Increase or Decrease Capacity: The What, How, and Why of 21st Century Library Skill Development
+## 1.2 To Increase or Decrease Capacity: The What, How, and Why of 21st Century Library Skill Development
 [Description](https://cnifall23mtg.sched.com/event/1VHUb/12-to-increase-or-decrease-capacity-the-what-how-and-why-of-21st-century-library-skill-development?iframe=no)
 Location: Salons D&E
-#### Tony Zanders (Skilltype)
+### Tony Zanders (Skilltype)
 - The change that we see around genAI is not new -- the 21st century has been defined by constant change
 		- e.g. Library websites (2004) - Outsourced Collections (2012) - Social Justice (2016) - COVID19 (2020) - genAI (2023)
 		- It's not enough to think about how we deal with genAI, but to think about how we train ourselves to manage a changing technology environm
@@ -139,7 +138,7 @@ Location: Salons D&E
 	- Professional development coordinator -- shares training opportunities weekly 
 	- Closed the Library for a day (during Fall break) for a morning of planning and experimentation + panel sessions on various topics of interest 
 	- Use Skilltype
-#### Karim Boughida (Stony Brook U)
+### Karim Boughida (Stony Brook U)
 - Common Theme: Disconnect between library administrators and staff
 	- To skills according to staff: Data, digital scholarship, etc. 
 	- #1 skill according to admins: "LibGuides"
@@ -147,7 +146,7 @@ Location: Salons D&E
 - What employers want: Skills, not credentials. Employers are doing skills-based hiring
 - **PD always a priority -- never cut it from the budget** 
 
-#### Q&A
+### Q&A
 - Developing skills in current staff vs. addressing gaps/limitation in current MLIS education
 	- It's important to acknowledge that the principles of information management and arrangement are always going to be relevant, but very few indiividuals in the future will need to know how to catalogue a book, specifically. 
 - What about "decreasing capacity" -- where might we decrease capacity? 
@@ -157,11 +156,11 @@ Location: Salons D&E
 	- Change from collections-based organization to a service-based organization. 
 - Dept of Labour: Estimates 7% increase in information professionals by 2030. 
 
-#### Thoughts
+### Thoughts
 - A lot to think about in terms of our current state and trajectory with skills development within the Library.
 - We need a fuller strategy for staff development 
 
-### 2.1 Models for Sustainable and Inclusive Data Science Consulting and Collaboration in Higher Education
+## 2.1 Models for Sustainable and Inclusive Data Science Consulting and Collaboration in Higher Education
 [Description](https://cnifall23mtg.sched.com/event/1VHVS/21-models-for-sustainable-and-inclusive-data-science-consulting-and-collaboration-in-higher-education?iframe=no)
 Location: Salons I & II
 Emily Griffith and Mara Blake
@@ -210,10 +209,10 @@ Emily Griffith and Mara Blake
 		- Keep track of appointments / projects 
 		- It's really not that expensive to hire graduate students 
 		- Focus on educational experience for the students 
-### 3.2 Partnerships in Research and Data Services: High Performance Computing, Collocation, and Facilitation
+## 3.2 Partnerships in Research and Data Services: High Performance Computing, Collocation, and Facilitation
 [Description](https://cnifall23mtg.sched.com/event/1VHVt/32-partnerships-in-research-and-data-services-high-performance-computing-collocation-and-facilitation?iframe=no)
 Location: Salons D&E
-#### Michael Navicky & Lauren Geiger (Mississippi State University)
+### Michael Navicky & Lauren Geiger (Mississippi State University)
 - Using the [RCDCM](https://carcc.org/rcdcm/). Potential uses: 
 	- user it as an in-depth SWOT (Strength, Weaknesses, Opportunities, Threats) chart
 	- Comparison with peer institutional capabilities 
@@ -240,7 +239,7 @@ Location: Salons D&E
 	- Discover researcher needs 
 	- Build systems and support staff capabilities 
 	- Communicate with senior leaders, faculty and researchers about long-term value of RCD
-#### Jason A. Clark & Doralyn Rossmann (Montana State Research Alliance)
+### Jason A. Clark & Doralyn Rossmann (Montana State Research Alliance)
 - [MS Research Alliance](https://www.montana.edu/research-alliance/)
 - ![[Pasted image 20231211164646.png]]
 - They did the RCDCM as well. -- focused on researcher- and data-facing roles 
@@ -278,7 +277,7 @@ Location: Salons D&E
 	- ![[Pasted image 20231211165848.png]]
 - Shared projects resulting from collaboration 
 	- ![[Pasted image 20231211165823.png]]
-#### Q&A: 
+### Q&A: 
 - What are the resources required to complete the RCDCM assessment and computing the results? 
 	- Mississippi: "Finding the data" to complete the assessment was tough and took some time, but if you can get in contact with the right people, it's very doable. 
 	- Challenge is getting the proper stakeholders to participate 
@@ -288,28 +287,29 @@ Location: Salons D&E
 - How is success defined? 
 	- Montana State has metrics defined for success.
 	- Cataloging outreach and engagement. Mine data about service partnerships. 
-#### Notes to self / Takeaways  
-- Q: Interested in the questions/pressures that you've had from upper university administrators about return on investment 
-- How to integrate Research Offices folks more into the DRCP? How to make them active participants? 
-- **RSD team: Role in supporting data science / AI?** 
-### Lightning Round
+### Notes to self / Takeaways  
+- ==Q: Interested in the questions/pressures that you've had from upper university administrators about return on investment==
+- ==How to integrate Research Offices folks more into the DRCP? How to make them active participants? 
+- ==**RSD team: Role in supporting data science / AI?**==
+
+## Lightning Round
 [Description](https://cnifall23mtg.sched.com/event/1VHVt/32-partnerships-in-research-and-data-services-high-performance-computing-collocation-and-facilitation?iframe=no)
 Location: Salons I & II
-#### Presentation 1
+### Presentation 1
 [Cyberinfrastructure to Support the Scalable Exchange of Sensitive and Proprietary Usage and Impact Metrics Across Public and Private Stakeholders](https://www.cni.org/topics/assessment/cyberinfrastructure-to-support-the-scalable-exchange-of-sensitive-and-proprietary-usage-and-impact-metrics-across-public-and-private-stakeholders), Christina Drummond, University of North Texas
 - [OA Book User Data Trust Effort](https://www.oabookusage.org/) 
 - [International data spaces](https://internationaldataspaces.org/)
-#### Presentation 2
+### Presentation 2
 [LEADING Next Steps: Evaluating the Sustainability and Impact of Post-graduate Professional Development and Mentorship Programs](https://www.cni.org/topics/economic-models/leading-next-steps-evaluating-the-sustainability-and-impact-of-post-graduate-professional-development-and-mentorship-programs), Erik Mitchell, University of California, San Diego
 - A lot of important benefits, but sustainability as a key challenge for these kinds of programs
 	- How might libraries collaborate to innovate professional education that impacts recruitment, growth, and retention? 
-#### Presentation 3
+### Presentation 3
 [Ecosystem for Next Generation Infrastructure (ENGIN)](https://www.cni.org/topics/ci/ecosystem-for-next-generation-infrastructure), Sayeed Choudhury, Carnegie Mellon University
 - Infrastructure  = technology + humans (human-centred engineering)
 - Open source + open science as drivers of next-gen infrastructure 
 - [CMY Cloud Lab](https://cloudlab.cmu.edu/) - anyone with an internet connection and computer can access HPC resources
 - Provocative question: What does genAI do to CC-BY?
-#### Presentation 4
+### Presentation 4
 [The Research Data Support Landscape: Findings from a National Inventory of University Services](https://www.cni.org/topics/repositories/the-research-data-support-landscape-findings-from-a-national-inventory-of-university-services), Dylan Ruediger, Ithaka S+R
 - > NOTE: Could look at this survey as a potential service mapping basis? 
 - ![[Pasted image 20231211174150.png]]
@@ -319,10 +319,10 @@ Location: Salons I & II
 	- Med school, IT, research office, etc. 
 - Findings published in early 2024. 
 	- Will include detailed breakdown with Canadian context, and mapping between disciplines and providers. 
-#### Presentation 5
+### Presentation 5
 [The Stacks Platform: A System for Onsite Access to Rights Restricted Digital Content at the Library of Congress](https://www.cni.org/topics/special-collections/the-stacks-platform-a-system-for-onsite-access-to-rights-restricted-digital-content-at-the-library-of-congress), Trevor Owens, Library of Congress
 - 
-#### Presentation 6
+### Presentation 6
 [Unexpected Opportunities Illuminated by Yale’s LUX Project](https://www.cni.org/topics/special-collections/unexpected-opportunities-illuminated-by-yales-lux-project), Robert Sanderson, Yale University
 - LUX: Unified digital access to collections of libraries, museums and archives (across all of Yale)
 - Built on Linked Open Data 
@@ -331,7 +331,7 @@ Location: Salons I & II
 	- Benefits from describing core university functions (e.g. restaurants, student services) 
 	- Use the data to build non-hallucinating AI
 - Cleaning code -- will come to GitHub soon. 
-#### Presentation 7
+### Presentation 7
 [LIBER - Association of European Research Libraries](https://www.cni.org/topics/digital-libraries/liber), Julien Roche, LIBER
 - Wide range of activities, from networking to learning and training, to open resources 
 - Leadership programs 
@@ -339,12 +339,10 @@ Location: Salons I & II
 - [International projects](https://libereurope.eu/projects/) 
 	- ![[Pasted image 20231211175816.png]]
 
-## Tuesday 12-Dec, 2023
-
-### 4.1 Navigating the Artificial Intelligence-Driven Academic Frontier: Tools and Initiatives
+## 4.1 Navigating the Artificial Intelligence-Driven Academic Frontier: Tools and Initiatives
 Location: Salons I & II
 [Description](https://cnifall23mtg.sched.com/event/1VHip/41-navigating-the-artificial-intelligence-driven-academic-frontier-tools-and-initiatives?iframe=no)
-#### Joelen Pastva (CMU)
+### Joelen Pastva (CMU)
 Motivation: Increase pathways for users to discover library resources
 - Researchers don't regularly start looking at the Library catalogue/website -- how to help them find what they need? 
 - [keenious](https://keenious.com/) - recommender tool (powered by AI) to assist in discovery of relevant scholarly articles by analyzing text inputs 
@@ -359,7 +357,7 @@ Motivation: Increase pathways for users to discover library resources
 - ![[Pasted image 20231212090033.png]]
 - outcomes 
 	- User retention increased, more clicks through to the link resolver 
-#### Ben Shaw (U of Maryland)
+### Ben Shaw (U of Maryland)
 - Impetus: Uncertainty around understanding of generative AI; application by learners and instructors
 - Intervention: [Canvas module](https://bit.ly/AI-ELMS) that can be integrated into courses, or serves as standalone module 
 - Goals 
@@ -374,7 +372,7 @@ Motivation: Increase pathways for users to discover library resources
 - Module: https://bit.ly/AI-ELMS 
 - If interested in using, email bshaw1@umd.edu
 
-#### Leo Lo (UNM)
+### Leo Lo (UNM)
 ==TO DO: Contact Leo to get framework==
 - Impetus: How to get people to use and engage with a new tool like genAI? 
 - Intervention: 12-week program
@@ -398,12 +396,12 @@ Motivation: Increase pathways for users to discover library resources
 	- Data privacy concerns 
 	- Prompt engineering difficult by essential
 	- AI lacked subject matter expertise
-#### Elias Tzoc (Clemson)
-#### Q&A 
+### Elias Tzoc (Clemson)
+### Q&A 
 - Keenious: Draws from OpenAlex, but restricts the articles it pulls from (e.g. only English), results in about 50M articles (which is still pretty good). What is trajectory for the product? 
 	- 
 
-### 5.1 Researcher and Institutional Impact of Data Management and Sharing Policies
+## 5.1 Researcher and Institutional Impact of Data Management and Sharing Policies
 [Description](https://cnifall23mtg.sched.com/event/1VHj7/51-researcher-and-institutional-impact-of-data-management-and-sharing-policies?iframe=no)
 Location: Salons I & II
 ==TO DO: RDM Team to review Outcomes of [Realities of Academic Data Sharing (RADS) Initiative](https://www.arl.org/realities-of-academic-data-sharing-rads-initiative/) ==
@@ -456,11 +454,11 @@ Location: Salons I & II
 	- Michigan - Research
 	- Duke
 	- Cornell 
-#### Q&A
+### Q&A
 - When researchers say "I did this myself, how much of this was a graduate student?"
 - Grant was an excellent opportunity to have conversation across units 
 
-### 6.2 A Radical New Approach to Data Citation: Cook the Carrots, Burn the Sticks
+## 6.2 A Radical New Approach to Data Citation: Cook the Carrots, Burn the Sticks
 [Description](https://cnifall23mtg.sched.com/event/1VQvA/62-a-radical-new-approach-to-data-citation-cook-the-carrots-burn-the-sticks?iframe=no)
 Location: Salons D & E
 Relevant links: 
@@ -480,7 +478,7 @@ Relevant links:
 	- We know there are lots of sticks: data sharing policies / compliance requirements at institutions for data storage and retention. 
 	- But they don't seem to work very well!
 - What is we could step back from this approach, take the burden off of researchers, and take advantage of machines to build these relationships, whether the relationships are explicit or not? 
-#### ## [John Chodacki](https://cnifall23mtg.sched.com/speaker/johnchodacki "John Chodacki")
+### [John Chodacki](https://cnifall23mtg.sched.com/speaker/johnchodacki "John Chodacki")
 - Make Data Count 
 	- Community effort to ensure dataare used and cited in open, transparent, and responsible ways
 		- Build open infrastructure and community-based standards 
@@ -500,7 +498,7 @@ Relevant links:
 		- Chan Zuckerberg Initiative (CZI) is contributing data citations identified through the CZI Knowledge Graph, which mines the text of publications via a machine-learning algorithm
 - Corpus prototype 
 	- define "datasets" --> Apply ML model to corpus (SciBERT)--> Extract dataset mentions --> link to a repository 
-#### ## [Kristi Holmes](https://cnifall23mtg.sched.com/speaker/kristiholmes2 "Kristi Holmes")
+### [Kristi Holmes](https://cnifall23mtg.sched.com/speaker/kristiholmes2 "Kristi Holmes")
 - Most important part is that it is collaborative. Solving this problem requires many groups working together. 
 - Libraries as interconnective tissue. Bringing together a variety of stakeholders, contextualizing. 
 - How to stay informed | how to get involved 
@@ -509,12 +507,12 @@ Relevant links:
 	- Paper coming out in March 2024 - Harvard data science review special edition 
 - [Joint Statement on Research Data ](https://datacite.org/blog/joint-statement-on-research-data/)
 - NIH-funded project around 
-### 7.2 Bringing Digitized Special Collections into the Research Workflow through JSTOR: Outcomes of a Three-year Pilot
+## 7.2 Bringing Digitized Special Collections into the Research Workflow through JSTOR: Outcomes of a Three-year Pilot
 [Description](https://cnifall23mtg.sched.com/event/1VQve/72-bringing-digitized-special-collections-into-the-research-workflow-through-jstor-outcomes-of-a-three-year-pilot?iframe=no)
 Location: Salons D & E
 
 
-### 8.2 Duke University's Research Support Initiative: Assessment, Recommendations, and Implementation
+## 8.2 Duke University's Research Support Initiative: Assessment, Recommendations, and Implementation
 [Description](https://cnifall23mtg.sched.com/event/1VQwV/82-duke-universitys-research-support-initiative-assessment-recommendations-and-implementation?iframe=no)
 Location: Salons F & G
 #### [John Board](https://cnifall23mtg.sched.com/speaker/john.board "John Board")
@@ -574,11 +572,77 @@ Location: Salons F & G
 	 - Some of our issues are likely common to others 
 	 - Some issues are unique to schools with medical centres 
 	 - ==***Faculty input coupled with leadership engagement and service provider expertise is critical to enhancing research support services***==
-#### Q&A
+### Q&A
 - From when did this start -- Feb 2022. See more information in [session description](https://cnifall23mtg.sched.com/event/1VQwV/82-duke-universitys-research-support-initiative-assessment-recommendations-and-implementation?iframe=no)
 - Invaluable individuals: Those who are able to translate knowledge between disciplinary and technical spaces. Able to interact with researchers/faculty, understand their questions, map it to solutions and workflows. 
 
-### Closing Plenary: Open Access, Open Scholarship, and Machine Learning: A Panel and Community Conversation
+## Closing Plenary: Open Access, Open Scholarship, and Machine Learning: A Panel and Community Conversation
 [Description](https://cnifall23mtg.sched.com/event/1VQwx/closing-plenary-open-access-open-scholarship-and-machine-learning-a-panel-and-community-conversation?iframe=no)
 Location: Salons I & II
 
+### Introduction by Cliff
+- Advocates for open science have traditionally had a clear motivation: To allow universal access to information to gain knowledge and build upon it. 
+	- All of this has been navigated through complex legal and ethical structures. 
+	- Open Access/Scholarship has benefited considerably from technology and computing advancement--has made it considerably easier to connect and share information.  
+	- People were generally comfortable with computational mining / text analysis / network and citation analyses 
+	- But with the rise of genAI tools, people don't seem to be as sure how they feel about this technology--it's a step further than the things we traditionally were comfortable with. 
+	- There are also many complexities associated with legal ambiguity of training genAI models with copyrighted/human-generated material. 
+
+### [Heather Sardis](https://cnifall23mtg.sched.com/speaker/sardis "Heather Sardis") (MIT)
+
+### [Rachael Samberg](https://cnifall23mtg.sched.com/speaker/rsamberg "Rachael Samberg")(UC Berkeley)
+- Copyright is a complex landscape, and there are rarely clear and universal interpretations.
+- But there are 2 precepts that should hold: 
+	1. Training AI is a fair use, particularly in research and scholarship context. Important to protect this as essential to these activities and this enterprise.
+		- Rights to recreate corpora for research purposes or create derivative products for research have been preserved repeatedly. 
+		- This type of use does not supplant the commercial 
+		- Important distinction between training AI vs. AI outputs 
+			- Mechanics of genAI outputs poorly understood. 
+			- Many cases where the outputs may infringe upon the original works from which the models were created. 
+	2. Scholars' ability to access original works to train AI should not be precluded. Full stop. 
+		- TDM often requires use of massive datasets, including copyright owners who cannot be identified or unwilling to grant rights -- if opt-out for AI training was permitted, scholarship would be impeded. 
+			- It could also lead to new licensing models, where content is re-licensed for use in AI training. 
+- Merely preserving fair use rights for AI training is not enough. Need to pursue lawmakers to change the legal frameworks that allow publishers to control access to works for these purposes. 
+
+### [Richard Sever](https://cnifall23mtg.sched.com/speaker/richard_sever.1uynytf8 "Richard Sever")(Cold Spring Harbor Laboratory Press)
+- Inclined to use the term "universal access" instead of "open access". 
+	- Purpose is to facilitate geometric growth in research and innovation -- by both humans and machines. 
+- See TDM falling clearly within fair use, but want to keep authors in control and in support, as well.
+	- e.g., using genAI to provide lay summaries of works. Some authors disagreed with machine-generated summaries (but many human-generated summaries face disagreement, too)
+### Q1
+Scholarly arguments that train genAI with scholarly content is an ethical risk. 
+- Desire for opt-outs. 
+- Concerns about bolstering already large corporate players in this space. 
+How should we address these kinds of issues? 
+- If our interest is to provide open and universal access, it is not our role to then say who can and should use these materials. However, regulation is key to ensure that  
+	- Focusing on pro-worker and pro-human legislation
+		- [AI needs to be more ‘pro-worker.’ These 5 policies can help](https://mitsloan.mit.edu/ideas-made-to-matter/ai-needs-to-be-more-pro-worker-these-5-policies-can-help) 
+		- Alignment and deeper review of [CARE principles ](https://www.gida-global.org/care)
+- Scholarly and creative works are already used in all sorts of ways by members of society (by humans and not just machines). This is part of the deal of creating a scholarly or creative work. 
+	- But, this doesn't mean that researchers shouldn't engage in ethical practices that are mindful and respectful to the content creators.  
+- [EU approach to AI](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
+	- Use for research and scholarship is enshrined and opt-out does not apply; opt-out applies for commercial activities. 
+- Thinking about infrastructure 
+	- e.g. thinking about infrastructure rights in a similar way to water rights, to ensure that everyone has access to it. 
+	- e.g. We don't want a system where only billion-dollar companies can create data and train models. 
+
+### Q2
+Should we think about scholarly literature differently than other types of media (books, movies, magazines, etc.)?
+How to think about peer reviewed vs. non-peer reviewed (e.g. preprints)
+
+- The notion of distinguishing clearly between peer-reviewed and non-peer reviewed 
+is naive and disingenuous -- there is a wide range of quality in both.
+	- Who is the arbiter of "good"? 
+
+- Shouldn't differentiate, but should have clear regulations how tools should be used and how products can/should be shared. 
+
+- From a technical standpoint, there is not much difference -- everyone is scooping up and ingesting everything amidst this hype cycle. What we should be thinking about is **"How to make it as easy as possible to access good scholarly content?"**. 
+
+### Q3
+Pragmatics and scale: What kind of infrastructure we need? What kind of choices we should be making to ensure these machines-driven tools provide a net benefit and that they are transparent in terms of their methods? 
+
+- "Do we need a new CC license to facilitate responsible training?"
+	- CC licenses do not override exceptions like fair use. Training AI with copyrighted content is permitted regardless. 
+	- In terms of disclosing information sources (attribution), CC licenses already afford reasonableness from an attribution perspective (allows variety of means of attribution). 
+	- Role for Libraries is around education. Right now, the onus is on researchers to determine whether or not what they want to do is lawful and ethical. This inhibits their research. 
+		- Also around advocacy to ensure we get the right laws that allows researchers to do their work when they are making a good-faith effort to comply with ethical and legal requirements on their activities. 
