@@ -4,7 +4,7 @@ theme:
     name: 'material'
     palette:
     features: 
-        - toc.follow
+      - toc.follow
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
