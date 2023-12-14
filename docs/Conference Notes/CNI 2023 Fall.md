@@ -336,7 +336,7 @@ Location: Salons I & II
 
 ## 4.1 Navigating the Artificial Intelligence-Driven Academic Frontier: Tools and Initiatives
 Location: Salons I & II  
-[Description](https://cnifall23mtg.sched.com/event/1VHip/41-navigating-the-artificial-intelligence-driven-academic-frontier-tools-and-initiatives?iframe=no)
+[Description](https://cnifall23mtg.sched.com/event/1VHip/41-navigating-the-artificial-intelligence-driven-academic-frontier-tools-and-initiatives?iframe=no)  
 ### Joelen Pastva (CMU)
 - Motivation: Increase pathways for users to discover library resources
 - Researchers don't regularly start looking at the Library catalogue/website -- how to help them find what they need?
@@ -348,7 +348,7 @@ Location: Salons I & II
 	- User and data privacy 
 	- Impact on research process 
 	- Product roadmap 
-	- Keenious passed all concerns, but requires regular revisitation to ensure the values/objectives/business models do not drift toward misalignment
+	- Keenious passed all concerns, but requires regular revisitation to ensure the values/objectives/business models do not drift toward misalignment.
 - ![[Pasted image 20231212090033.png]]
 - Outcomes 
 	- User retention increased, more clicks through to the link resolver 
