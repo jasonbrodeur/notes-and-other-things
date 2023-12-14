@@ -411,9 +411,9 @@ Location: Salons I & II
 	- Admins: Surveys + follow-up focus groups
 	- Researchers: IDed in specific subject areas, having received specific relevant grants 
 - Results 
-	- ==TO DO: Look for report in Jan 2024==
+	- ==TO DO: Look for report in Jan 2024== 
 	- 27 RDM and sharing activities identified 
-	- ==TO DO: Check out the frameworks and visualizations on the project page. e.g.: https://public.tableau.com/app/profile/mollie.webb/viz/rads_data_support_activities_service_centers/rads_ic==
+	- ==TO DO: Check out the frameworks and visualizations on the project page. e.g.: https://public.tableau.com/app/profile/mollie.webb/viz/rads_data_support_activities_service_centers/rads_ic== 
 	- ![[Pasted image 20231212093833.png]]
 	- ![[Pasted image 20231212093848.png]]
  - ![[Pasted image 20231212094021.png]]
