@@ -384,8 +384,7 @@ Location: Salons I & II
 	- ![[Pasted image 20231212090750.png]]
 - ![[Pasted image 20231212090725.png]]
 - Key Learnings 
-	- prompt practice **built critical skills**
-	- 
+	- Prompt practice **built critical skills**
 - Challenges 
 	- Data privacy concerns 
 	- Prompt engineering difficult by essential
