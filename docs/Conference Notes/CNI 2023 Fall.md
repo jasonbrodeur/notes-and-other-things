@@ -7,6 +7,8 @@ Purpose of these notes: For Jay's own notetaking and knowledge-building purposes
 [Description](https://cnifall23mtg.sched.com/event/1VHgP/opening-plenary-clifford-lynch?iframe=no)
 Location: Salons I & II
 
+### Recording
+<iframe width="916" height="515" src="https://www.youtube.com/embed/0gw504WF9T8" title="From Exascale to AI: Developments &amp; Implications for the Information Landscape (Opening Plenary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Off the top
 - ==TO DO: Schedule a time to share CNI videos early in the new year.==
 - A reminder to member institution reps to share information as appropriate within the institution. 
@@ -572,6 +574,8 @@ Location: Salons F & G
 [Description](https://cnifall23mtg.sched.com/event/1VQwx/closing-plenary-open-access-open-scholarship-and-machine-learning-a-panel-and-community-conversation?iframe=no)
 Location: Salons I & II
 
+### Recording
+<iframe width="916" height="515" src="https://www.youtube.com/embed/9ABziVkLAm0" title="Closing Plenary: Open Access, Open Scholarship, &amp; Machine Learning: A Panel &amp; Community Conversation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Introduction by Cliff
 - Advocates for open science have traditionally had a clear motivation: To allow universal access to information to gain knowledge and build upon it. 
 	- All of this has been navigated through complex legal and ethical structures. 
