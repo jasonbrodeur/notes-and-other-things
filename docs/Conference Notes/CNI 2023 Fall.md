@@ -20,8 +20,8 @@ Location: Salons I & II
 	- New machines coming online - e.g. Frontier @ Oak Ridges
 - Broader revisitation of what constitutes infrastructure. 
 - Implications of attaching experimental equipment to broad networks
-	- Carnegie Mellon University (see presentation in Dec 2021). Carnegie Mellon University’s [Cloud Lab Project](https://cloudlab.cmu.edu/) [video]([https://www.cni.org/mm/fall-2021/plenary-sessions-f21/#cloud-lab](https://www.cni.org/mm/fall-2021/plenary-sessions-f21/#cloud-lab)
-	- e.g. Self-driving labs
+	- Carnegie Mellon University (see presentation in Dec 2021). Carnegie Mellon University’s [Cloud Lab Project](https://cloudlab.cmu.edu/) [video](https://www.cni.org/mm/fall-2021/plenary-sessions-f21/#cloud-lab)
+	- e.g. "Self-driving labs"
 - Cybersecurity
 	- The stats are scary -- ransomware, disruption, variety of attacks 
 	- Social, critical, and cultural infrastructure under attack
@@ -30,18 +30,18 @@ Location: Salons I & II
 	- Simulation model paired with a physical model -- use both interactively to inform the other 
 	- [NIST article](https://www.nist.gov/news-events/news/2023/02/how-digital-twins-could-protect-manufacturers-cyberattacks)
 ### AI
-- It's a confusing space and incredibly lack of transparency
-- All sorts of chatbots built on LLMs; everyone is using them; very few really understand how they work and exactly what the can/should be used for
+- It's a confusing space and the lack of transparency is significant.
+- All sorts of chatbots built on LLMs; everyone is using them; very few really understand how they work and exactly what they can/should be used for
 	- Lots of conjecture / discussion of regulation / demoware and fake demoware 
 - CNI + ARL [task force](https://www.arl.org/wp-content/uploads/2023/10/ARL-CNI-Task-Force-on-Scenario-Planning-Charge.pdf): Will share the first draft of scenarios and how they have shaped out. Hope to have a final draft by ARL meeting later in the spring. 
 	- Will be helpful as a tool for institutional and community discussions. 
 	- ==TO DO: Find the link==
 - Key issues related to AI & ML
-	- Trajectory: To a highly structure oligopoly or a patchwork of grassroots / specialized initiatives
-		- Oligopoly argument: "These models are incredibly expensive to generate and run; we need big players in this space to support and monetize"
-		- Counter argument: Many groups working on smaller and "smarter" models that can be more parsimonious and precise. 
+	- Two possible trajectories: Towards a highly structure oligopoly or a patchwork of grassroots / specialized initiatives
+		- Oligopoly trajectory and argument: "These models are incredibly expensive to generate and run; we need big players in this space to support and monetize"
+		- Grassroots trajectory argument: Many groups are working on smaller and "smarter" models that can be more parsimonious and precise, and democratized and shared. 
 	- Calls for policy and regulation 
-		- Some aligning interests in the direction of oligopoly / centralization: Much easier to regulate a centralized industry; also, regulatory capture is possible when you have a few, large players. 
+		- Some aligning interests in the direction of oligopoly / centralization: It's much easier to regulate a centralized industry; also, regulatory capture is possible when you have a few, large players. 
 		- The more distributed this is, the harder it will be to regulate (e.g. the cryptography wars of the 1980s).
 	- How important is generative AI vs broader portfolio of AI/ML? 
 		- GAI talks to / resonates with a lot of people -- many people have to write/create things. It also threatens many who makes those things for a living 
