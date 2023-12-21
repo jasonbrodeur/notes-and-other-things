@@ -416,15 +416,14 @@ Location: Salons I & II
 - Results 
 	- ==TO DO:== Look for report in Jan 2024
 	- 27 RDM and sharing activities identified 
-	- ==TO DO:== Check out the frameworks and visualizations on the project page. 
-		- e.g.: https://public.tableau.com/app/profile/mollie.webb/viz/rads_data_support_activities_service_centers/rads_ic
+	- ==TO DO:== Check out the frameworks and [visualizations](https://public.tableau.com/app/profile/mollie.webb/viz/rads_data_support_activities_service_centers/rads_ic) on the project page. 
 	- ![[Pasted image 20231212093833.png]]
 	- ![[Pasted image 20231212093848.png]]
- - ![[Pasted image 20231212094021.png]]
-- ![[Pasted image 20231212094836.png]]
+	 - ![[Pasted image 20231212094021.png]]
+	- ![[Pasted image 20231212094836.png]]
 - Takeaways 
-	- Researchers are doing the majority of data sharing activities on their ownership 
-	- Researchers have **always had to manage their data** -- the shift is how to prepare it for others to find, use 
+	- Researchers are doing the majority of data sharing activities on their own
+	- Researchers have ***always had to manage their data*** -- the shift is how to prepare it for others to find, use 
 	- (missed a point here -- check slides later)
 	- Many service/support units stull adjusting to changing requirements (compliance-based, minimizing risk, etc.)
 	- Library services are generally focused on needs of the researcher , but researchers perform a lot of these themselves 
@@ -442,7 +441,7 @@ Location: Salons I & II
 		- Selecting / applying licenses for reuse 
 		- Adopting PIDs 
 	- Cross-campus collaboration 
-		- Recommendations, policies, and practices for deaccessioning/removind data 
+		- Recommendations, policies, and practices for deaccessioning/removing data 
 		- IDing and budgeting for the costs of data management and sharing 
 		- Training / education 
 - Some examples of cross-campus collaborations 
@@ -599,17 +598,13 @@ Location: Salons I & II
 		- TDM often requires use of massive datasets, including copyright owners who cannot be identified or unwilling to grant rights -- if opt-out for AI training was permitted, scholarship would be impeded. 
 			- It could also lead to new licensing models, where content is re-licensed for use in AI training. 
 - Merely preserving fair use rights for AI training is not enough. Need to pursue lawmakers to change the legal frameworks that allow publishers to control access to works for these purposes. 
-
 ### [Richard Sever](https://cnifall23mtg.sched.com/speaker/richard_sever.1uynytf8 "Richard Sever")(Cold Spring Harbor Laboratory Press)
 - Inclined to use the term "universal access" instead of "open access". 
 	- Purpose is to facilitate geometric growth in research and innovation -- by both humans and machines. 
 - See TDM falling clearly within fair use, but want to keep authors in control and in support, as well.
 	- e.g., using genAI to provide lay summaries of works. Some authors disagreed with machine-generated summaries (but many human-generated summaries face disagreement, too)
 ### Q1
-Scholarly arguments that train genAI with scholarly content is an ethical risk. 
-- Desire for opt-outs. 
-- Concerns about bolstering already large corporate players in this space. 
-How should we address these kinds of issues? 
+Scholarly arguments that train genAI with scholarly content is an ethical risk. There is desire for opt-outs and concerns about bolstering already large corporate players in this space. How should we address these kinds of issues? 
 - If our interest is to provide open and universal access, it is not our role to then say who can and should use these materials. However, regulation is key to ensure that  
 	- Focusing on pro-worker and pro-human legislation
 		- [AI needs to be more ‘pro-worker.’ These 5 policies can help](https://mitsloan.mit.edu/ideas-made-to-matter/ai-needs-to-be-more-pro-worker-these-5-policies-can-help) 
@@ -621,7 +616,6 @@ How should we address these kinds of issues?
 - Thinking about infrastructure 
 	- e.g. thinking about infrastructure rights in a similar way to water rights, to ensure that everyone has access to it. 
 	- e.g. We don't want a system where only billion-dollar companies can create data and train models. 
-
 ### Q2
 Should we think about scholarly literature differently than other types of media (books, movies, magazines, etc.)?
 How to think about peer reviewed vs. non-peer reviewed (e.g. preprints)
