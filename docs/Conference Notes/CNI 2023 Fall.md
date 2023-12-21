@@ -607,7 +607,8 @@ Location: Salons I & II
 - See TDM falling clearly within fair use, but want to keep authors in control and in support, as well.
 	- e.g., using genAI to provide lay summaries of works. Some authors disagreed with machine-generated summaries (but many human-generated summaries face disagreement, too)
 ### Q1
-Scholarly arguments that train genAI with scholarly content is an ethical risk. There is desire for opt-outs and concerns about bolstering already large corporate players in this space. How should we address these kinds of issues? 
+
+There is scholarly debate around whether training genAI with scholarly content is an ethical risk. There is desire for opt-outs and concerns about bolstering already large corporate players in this space. How should we address these kinds of issues?  
 - If our interest is to provide open and universal access, it is not our role to then say who can and should use these materials. However, regulation is key to ensure that  
 	- Focusing on pro-worker and pro-human legislation
 		- [AI needs to be more ‘pro-worker.’ These 5 policies can help](https://mitsloan.mit.edu/ideas-made-to-matter/ai-needs-to-be-more-pro-worker-these-5-policies-can-help) 
@@ -619,14 +620,14 @@ Scholarly arguments that train genAI with scholarly content is an ethical risk. 
 - Thinking about infrastructure 
 	- e.g. thinking about infrastructure rights in a similar way to water rights, to ensure that everyone has access to it. 
 	- e.g. We don't want a system where only billion-dollar companies can create data and train models. 
-### Q2
+### Q2 
 Should we think about scholarly literature differently than other types of media (books, movies, magazines, etc.)? How to think about peer reviewed vs. non-peer reviewed (e.g. preprints)
 - The notion of distinguishing clearly between peer-reviewed and non-peer reviewed 
 is naive and disingenuous -- there is a wide range of quality in both.
 	- Who is the arbiter of "good"? 
 - Shouldn't differentiate, but should have clear regulations how tools should be used and how products can/should be shared. 
 - From a technical standpoint, there is not much difference -- everyone is scooping up and ingesting everything amidst this hype cycle. What we should be thinking about is **"How to make it as easy as possible to access good scholarly content?"**. 
-### Q3
+### Q3 
 Pragmatics and scale: What kind of infrastructure we need? What kind of choices we should be making to ensure these machines-driven tools provide a net benefit and that they are transparent in terms of their methods? 
 - "Do we need a new CC license to facilitate responsible training?"
 	- CC licenses do not override exceptions like fair use. Training AI with copyrighted content is permitted regardless. 
