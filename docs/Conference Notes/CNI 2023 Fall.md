@@ -398,7 +398,7 @@ Location: Salons I & II
 ## 5.1 Researcher and Institutional Impact of Data Management and Sharing Policies
 [Description](https://cnifall23mtg.sched.com/event/1VHj7/51-researcher-and-institutional-impact-of-data-management-and-sharing-policies?iframe=no)  
 Location: Salons I & II  
-- ==TO DO:== RDM Team to review outcomes of [Realities of Academic Data Sharing Initiative](https://www.arl.org/realities-of-academic-data-sharing-rads-initiative/)  (RADS)
+- ==TO DO: RDM Team to review outcomes of [Realities of Academic Data Sharing Initiative](https://www.arl.org/realities-of-academic-data-sharing-rads-initiative/)  (RADS)==
 - Data sharing requirements have gotten increasingly complex in the US. 
 - Research questions: 
 	- How do institutions support research data management and sharing? 
@@ -414,9 +414,9 @@ Location: Salons I & II
 	- Admins: Surveys + follow-up focus groups
 	- Researchers: IDed in specific subject areas, having received specific relevant grants 
 - Results 
-	- ==TO DO:== Look for report in Jan 2024
+	- ==TO DO: Look for report in Jan 2024==
 	- 27 RDM and sharing activities identified 
-	- ==TO DO:== Check out the frameworks and [visualizations](https://public.tableau.com/app/profile/mollie.webb/viz/rads_data_support_activities_service_centers/rads_ic) on the project page. 
+	- ==TO DO: Check out the frameworks and [visualizations](https://public.tableau.com/app/profile/mollie.webb/viz/rads_data_support_activities_service_centers/rads_ic) on the project page. ==
 	- ![[Pasted image 20231212093833.png]]
 	- ![[Pasted image 20231212093848.png]]
 	 - ![[Pasted image 20231212094021.png]]
