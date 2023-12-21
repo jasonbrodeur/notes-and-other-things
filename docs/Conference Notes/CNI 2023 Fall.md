@@ -394,11 +394,14 @@ Location: Salons I & II
 ### Elias Tzoc (Clemson)
 ### Q&A 
 - Keenious: Draws from OpenAlex, but restricts the articles it pulls from (e.g. only English), results in about 50M articles (which is still pretty good). What is trajectory for the product?
-
 ## 5.1 Researcher and Institutional Impact of Data Management and Sharing Policies
-[Description](https://cnifall23mtg.sched.com/event/1VHj7/51-researcher-and-institutional-impact-of-data-management-and-sharing-policies?iframe=no)  
 Location: Salons I & II  
-- ==TO DO: RDM Team to review outcomes of [Realities of Academic Data Sharing Initiative](https://www.arl.org/realities-of-academic-data-sharing-rads-initiative/)  (RADS)==
+[Description](https://cnifall23mtg.sched.com/event/1VHj7/51-researcher-and-institutional-impact-of-data-management-and-sharing-policies?iframe=no)  
+
+### Jay's summary and to-dos
+- ==RDM Team to review outcomes of [Realities of Academic Data Sharing Initiative](https://www.arl.org/realities-of-academic-data-sharing-rads-initiative/) (RADS)==
+
+### Notes
 - Data sharing requirements have gotten increasingly complex in the US. 
 - Research questions: 
 	- How do institutions support research data management and sharing? 
