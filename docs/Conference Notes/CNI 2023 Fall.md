@@ -617,20 +617,14 @@ Scholarly arguments that train genAI with scholarly content is an ethical risk. 
 	- e.g. thinking about infrastructure rights in a similar way to water rights, to ensure that everyone has access to it. 
 	- e.g. We don't want a system where only billion-dollar companies can create data and train models. 
 ### Q2
-Should we think about scholarly literature differently than other types of media (books, movies, magazines, etc.)?
-How to think about peer reviewed vs. non-peer reviewed (e.g. preprints)
-
+Should we think about scholarly literature differently than other types of media (books, movies, magazines, etc.)? How to think about peer reviewed vs. non-peer reviewed (e.g. preprints)
 - The notion of distinguishing clearly between peer-reviewed and non-peer reviewed 
 is naive and disingenuous -- there is a wide range of quality in both.
 	- Who is the arbiter of "good"? 
-
 - Shouldn't differentiate, but should have clear regulations how tools should be used and how products can/should be shared. 
-
 - From a technical standpoint, there is not much difference -- everyone is scooping up and ingesting everything amidst this hype cycle. What we should be thinking about is **"How to make it as easy as possible to access good scholarly content?"**. 
-
 ### Q3
 Pragmatics and scale: What kind of infrastructure we need? What kind of choices we should be making to ensure these machines-driven tools provide a net benefit and that they are transparent in terms of their methods? 
-
 - "Do we need a new CC license to facilitate responsible training?"
 	- CC licenses do not override exceptions like fair use. Training AI with copyrighted content is permitted regardless. 
 	- In terms of disclosing information sources (attribution), CC licenses already afford reasonableness from an attribution perspective (allows variety of means of attribution). 
