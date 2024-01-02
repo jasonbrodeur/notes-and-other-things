@@ -31,7 +31,7 @@ Location: Salons I & II
 	- [NIST article](https://www.nist.gov/news-events/news/2023/02/how-digital-twins-could-protect-manufacturers-cyberattacks)
 ### AI
 - It's a confusing space and the lack of transparency is significant.
-- All sorts of chatbots built on LLMs; everyone is using them; very few really understand how they work and exactly what they can/should be used for
+- All sorts of chatbots are out there, built on LLMs; everyone is using them; very few really understand how they work and exactly what they can/should be used for
 	- Lots of conjecture / discussion of regulation / demoware and fake demoware 
 - CNI + ARL [task force](https://www.arl.org/wp-content/uploads/2023/10/ARL-CNI-Task-Force-on-Scenario-Planning-Charge.pdf): Will share the first draft of scenarios and how they have shaped out. Hope to have a final draft by ARL meeting later in the spring. 
 	- Will be helpful as a tool for institutional and community discussions. 
