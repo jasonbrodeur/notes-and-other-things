@@ -58,7 +58,7 @@ Location: Salons I & II
 			- e.g., training on scholarly content (see the Allen Institute). Not a lot of results out yet. 
 			- [Aurora GPT](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/) - trained on scientific literature, data, code | 1 trillion parameter
 	- What does it mean to be "open" in the AI space? And how do we preserve these systems?
-		- Requires a nuanced set of definitions for "openness"
+		- Requires a nuanced set of definitions for "openness".
 ### Scholarly Communications
 - CNI executive roundtable for RDM -- report coming out soon
 - Significant increase in desire for services. Due to:
