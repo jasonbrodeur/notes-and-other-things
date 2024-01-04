@@ -2,7 +2,7 @@
 December 13-14, 2023 
 Washington, DC.
 
-Purpose of these notes: For Jay's own notetaking and knowledge-building purposes; to share information with others, too. 
+Purpose of these notes: For Jay's own notetaking and knowledge-building purposes; to share information with others, too.  
 ## Opening Plenary: Clifford Lynch
 [Description](https://cnifall23mtg.sched.com/event/1VHgP/opening-plenary-clifford-lynch?iframe=no)
 Location: Salons I & II
