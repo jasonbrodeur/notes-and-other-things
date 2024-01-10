@@ -207,9 +207,15 @@ Emily Griffith and Mara Blake
 		- Keep track of appointments / projects 
 		- It's really not that expensive to hire graduate students 
 		- Focus on educational experience for the students 
+## 3.1 Generative Artificial Intelligence (AI) and Research Integrity
+[Description](https://sched.co/1VHVe)
+<iframe width="787" height="443" src="https://www.youtube.com/embed/W1M-VKqLYGc" title="Generative Artificial Intelligence (AI) and Research Integrity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## 3.2 Partnerships in Research and Data Services: High Performance Computing, Collocation, and Facilitation
 [Description](https://cnifall23mtg.sched.com/event/1VHVt/32-partnerships-in-research-and-data-services-high-performance-computing-collocation-and-facilitation?iframe=no)  
 Location: Salons D&E
+
+### Session recording
+<iframe width="787" height="443" src="https://www.youtube.com/embed/LpGBiI8KH6Q" title="Partnerships in Research and Data Services: High Performance Computing, Collocation, &amp; Facilitation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Michael Navicky & Lauren Geiger (Mississippi State University)
 - Using the [RCDCM](https://carcc.org/rcdcm/). Potential uses: 
 	- user it as an in-depth SWOT (Strength, Weaknesses, Opportunities, Threats) chart
@@ -339,6 +345,9 @@ Location: Salons I & II
 ## 4.1 Navigating the Artificial Intelligence-Driven Academic Frontier: Tools and Initiatives
 Location: Salons I & II  
 [Description](https://cnifall23mtg.sched.com/event/1VHip/41-navigating-the-artificial-intelligence-driven-academic-frontier-tools-and-initiatives?iframe=no)  
+
+### Session recording
+<iframe width="787" height="443" src="https://www.youtube.com/embed/FRy-c-B4y78" title="Navigating the Artificial Intelligence-Driven Academic Frontier: Tools and Initiatives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Joelen Pastva (CMU)
 - Motivation: Increase pathways for users to discover library resources
 - Researchers don't regularly start looking at the Library catalogue/website -- how to help them find what they need?
@@ -398,6 +407,8 @@ Location: Salons I & II
 Location: Salons I & II  
 [Description](https://cnifall23mtg.sched.com/event/1VHj7/51-researcher-and-institutional-impact-of-data-management-and-sharing-policies?iframe=no)  
 
+### Session recording
+<iframe width="900" height="506" src="https://www.youtube.com/embed/luI91dM0mKQ" title="Researcher and Institutional Impact of Data Management and Sharing Policies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Jay's summary and to-dos
 - ==RDM Team to review outcomes of [Realities of Academic Data Sharing Initiative](https://www.arl.org/realities-of-academic-data-sharing-rads-initiative/) (RADS)==
 
@@ -461,6 +472,9 @@ Location: Salons D & E
 	- [Make Data Count](https://makedatacount.org/data-citation/)
 	- [Previous presentation](https://zenodo.org/records/10083792) 
 	- [DataCite dashboard](http://corpus.stage.datacite.org/dashboard)
+
+### Session recording
+<iframe width="900" height="506" src="https://www.youtube.com/embed/RTn26kMDppQ" title="A Radical New Approach to Data Citation: Cook the Carrots, Burn the Sticks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 #### [Jamie Wittenberg](https://cnifall23mtg.sched.com/speaker/jamie.wittenberg1 "Jamie Wittenberg")
 - We don't know how data can be found. If we're not capturing metadata about data use, we're not counting it. 
 - Questions: 
