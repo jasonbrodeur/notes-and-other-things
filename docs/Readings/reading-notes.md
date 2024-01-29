@@ -1,3 +1,10 @@
+## Which GPU(s) to Get for Deep Learning
+https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/
+
+> Tensor Cores are most important, followed by memory bandwidth of a GPU, the cache hierachy, and only then FLOPS of a GPU.
+
+- Tensor Cores are tiny cores that perform very efficient matrix multiplication. Since the most expensive part of any deep neural network is matrix multiplication Tensor Cores are very useful. In fact, they are so powerful, that I do not recommend any GPUs that do not have Tensor Cores.
+- 
 ## McMaster Indigenous Research Primer
 [Homepage](https://miri.mcmaster.ca/indigenous-research-primer/)
 [Direct Download](https://miri.mcmaster.ca/wp-content/uploads/2023/09/IndigenousResearchPrimer.pdf)
